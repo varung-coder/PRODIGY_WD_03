@@ -1,9 +1,5 @@
 # PRODIGY_WD_03 - TIC TAC TOE WEB APPLICATION
 
-<div align="center">
-  <img src="bg.png" alt="Tic Tac Toe Background" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
-</div>
-
 ## 📖 Overview
 Welcome to the Premium Tic Tac Toe Web Application! This project is a modern, fully responsive, and visually stunning take on the classic Tic Tac Toe game. It was built with a strong focus on UI/UX design, featuring a glassmorphism interface, retro-futuristic synthwave aesthetics, and interactive micro-animations. Whether you want to challenge a friend locally or test your skills against an unbeatable AI, this application provides a seamless and engaging experience.
 
