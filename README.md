@@ -5,7 +5,7 @@ Welcome to the Premium Tic Tac Toe Web Application! This project is a modern, fu
 
 ## 🚀 Live Demo
 Experience the game live directly in your browser:
-**[Play Tic Tac Toe Now](https://varung-coder.github.io/PRODIGY_WD_03/)**
+**(https://varung-coder.github.io/PRODIGY_WD_03/)**
 
 ## ✨ Key Features
 - **Dual Play Modes:**
